@@ -1,5 +1,9 @@
 # Fused Fiber Photometry
 
+In case of use, please cite the following article:
+
+Formozov, Andrey, Alexander Dieter, and J. Simon Wiegert. "A flexible and versatile system for multi-color fiber photometry and optogenetic manipulation." Cell Reports Methods 3.3 (2023). https://doi.org/10.1016/j.crmeth.2023.100418
+
 ![Fused Fiber Photometry of Genetically Encoded Calcium Indicator in vivo](photometry_calcium_activity_405_470nm.png)
 
 The code allows reproduction of the analysis of data presented in the manuscript "A flexible and versatile system for multi-color fiber photometry and optogenetic manipulation", Cell Method Reports, 2023, by Formozov, Dieter, and Wiegert. 
